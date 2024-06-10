@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+QAC-venv/
 
 # Spyder project settings
 .spyderproject
@@ -162,4 +163,3 @@ cython_debug/
 #.idea/
 
 
-.gittoken.txt
